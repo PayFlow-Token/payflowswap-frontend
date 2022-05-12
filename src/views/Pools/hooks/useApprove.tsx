@@ -1,0 +1,50 @@
+import { useCallback, useMemo } from 'react'
+import { useWeb3React } from '@web3-react/core'
+import { Contract } from '@ethersproject/contracts'
+import { MaxUint256 } from '@ethersproject/constants'
+import { useAppDispatch } from 'state'
+import { updateUserAllowance } from 'state/actions'
+import { useTranslation } from 'contexts/Localization'
+import { useSousChef } from 'hooks/useContract'
+import useToast from 'hooks/useToast'
+import { useCallWithGasPrice } from 'hooks/useCallWithGasPrice'
+import useCatchTxError from 'hooks/useCatchTxError'
+import { ToastDescriptionWithTx } from 'components/Toast'
+
+export const useApprovePool = (lpContract: Contract, sousId, earningTokenSymbol) => {
+  const { toastSuccess } = useToast()
+  const { fetchWithCatchTxError, loading: pendingTx } = useCatchTxError()
+  const { callWithGasPrice } = useCallWithGasPrice()
+  const { t } = useTranslation()
+  const dispatch = useAppDispatch()
+  const { account } = useWeb3React()
+  const sousChefContract = useSousChef(sousId)
+
+  const handleApprove = useCallback(async () => {
+    const receipt = await fetchWithCatchTxError(() => {
+      return callWithGasPrice(lpContract, 'approve', [sousChefContract.address, MaxUint256])
+    })
+    if (receipt?.status) {
+      toastSuccess(
+        t('Contract Enabled'),
+        <ToastDescriptionWithTx txHash={receipt.transactionHash}>
+          {t('You can now stake in the %symbol% pool!', { symbol: earningTokenSymbol })}
+        </ToastDescriptionWithTx>,
+      )
+      dispatch(updateUserAllowance(sousId, account))
+    }
+  }, [
+    account,
+    dispatch,
+    lpContract,
+    sousChefContract,
+    sousId,
+    earningTokenSymbol,
+    t,
+    toastSuccess,
+    callWithGasPrice,
+    fetchWithCatchTxError,
+  ])
+
+  return { handleApprove, pendingTx }
+}

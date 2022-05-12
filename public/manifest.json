@@ -1,0 +1,23 @@
+{
+  "short_name": "PayFlow",
+  "name": "PayFlow Swap",
+  "description": "The next DeFi multi-dashboard on the BNB Smart Chain, Earn passive income, long term. By PayFlow..",
+  "homepage_url": "https://payflow.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3297cc",
+  "background_color": "#10122d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
