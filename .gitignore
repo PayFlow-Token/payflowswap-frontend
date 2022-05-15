@@ -20,6 +20,7 @@ out/
 build
 dist
 storybook-static
+public/stats
 
 # misc
 .DS_Store
