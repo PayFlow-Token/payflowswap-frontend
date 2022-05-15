@@ -7,7 +7,6 @@
   ],
   "scripts": {
     "analyze": "ANALYZE=true yarn build",
-<<<<<<< HEAD
     "dev": "next dev -p 3001",
     "build": "next build",
     "start": "next start -p 3001",
@@ -15,15 +14,6 @@
     "test:watch": "jest --watch",
     "test:config": "jest src/config/__tests__/ --testPathIgnorePatterns",
     "integration-test": "start-server-and-test start http://localhost:3001 'cypress run'",
-=======
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:config": "jest src/config/__tests__/ --testPathIgnorePatterns",
-    "integration-test": "start-server-and-test start http://localhost:3000 'cypress run'",
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:style": "npx stylelint '**/*.{ts,tsx}'",
     "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx}\"",
