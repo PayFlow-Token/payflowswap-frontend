@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "baseUrl": "http://localhost:3001",
-=======
-  "baseUrl": "http://localhost:3000",
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
   "pluginsFile": false,
   "fixturesFolder": false,
   "supportFile": "cypress/support/index.js",

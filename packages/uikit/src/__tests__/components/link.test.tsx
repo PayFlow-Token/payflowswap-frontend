@@ -3,11 +3,7 @@ import { renderWithTheme } from "../../testHelpers";
 import { Link, LinkExternal } from "../../components/Link";
 
 it("renders link correctly", () => {
-<<<<<<< HEAD
   const { asFragment } = renderWithTheme(<Link href="https://payflowswap.com">Link</Link>);
-=======
-  const { asFragment } = renderWithTheme(<Link href="https://pancakeswap.finance">Link</Link>);
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c0 {
@@ -39,11 +35,7 @@ it("renders link correctly", () => {
     <a
         class="c0 c1"
         color="primary"
-<<<<<<< HEAD
         href="https://payflowswap.com"
-=======
-        href="https://pancakeswap.finance"
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
       >
         Link
       </a>
@@ -52,11 +44,7 @@ it("renders link correctly", () => {
 });
 
 it("renders link external link correctly", () => {
-<<<<<<< HEAD
   const { asFragment } = renderWithTheme(<LinkExternal href="https://payflowswap.com">Link</LinkExternal>);
-=======
-  const { asFragment } = renderWithTheme(<LinkExternal href="https://pancakeswap.finance">Link</LinkExternal>);
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       .c0 {
@@ -99,11 +87,7 @@ it("renders link external link correctly", () => {
     <a
         class="c0 c1"
         color="primary"
-<<<<<<< HEAD
         href="https://payflowswap.com"
-=======
-        href="https://pancakeswap.finance"
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
         rel="noreferrer noopener"
         target="_blank"
       >

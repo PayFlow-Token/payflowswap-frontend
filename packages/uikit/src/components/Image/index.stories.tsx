@@ -80,11 +80,7 @@ export const TokenImages: React.FC = () => {
   return (
     <Flex flexWrap="wrap">
       {tokens.map((token) => {
-<<<<<<< HEAD
         const src = `https://payflowswap.com/images/tokens/${token.address[56]}.svg`;
-=======
-        const src = `https://pancakeswap.finance/images/tokens/${token.address[56]}.svg`;
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
 
         return (
           <StyledBox key={token.symbol} p="16px">
@@ -105,13 +101,8 @@ export const TokenPairImages: React.FC = () => {
     <Flex flexWrap="wrap">
       {tokens.map((token) => {
         const randomTokenIndex = random(0, tokens.length - 1);
-<<<<<<< HEAD
         const primarySrc = `https://payflowswap.com/images/tokens/${token.address[56]}.svg`;
         const secondarySrc = `https://payflowswap.com/images/tokens/${tokens[randomTokenIndex].address[56]}.svg`;
-=======
-        const primarySrc = `https://pancakeswap.finance/images/tokens/${token.address[56]}.svg`;
-        const secondarySrc = `https://pancakeswap.finance/images/tokens/${tokens[randomTokenIndex].address[56]}.svg`;
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
 
         return (
           <StyledBox key={token.symbol} p="16px">

@@ -655,11 +655,7 @@ it("renders ConnectModal correctly", () => {
             </p>
             <a
               class="c22"
-<<<<<<< HEAD
               href="https://docs.payflowswap.com/get-started/connection-guide"
-=======
-              href="https://docs.pancakeswap.finance/get-started/connection-guide"
->>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
               rel="noreferrer noopener"
               scale="md"
               target="_blank"
