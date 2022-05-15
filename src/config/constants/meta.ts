@@ -3,10 +3,10 @@ import { APP_URL } from './endpoints'
 import { PageMeta } from './types'
 
 export const DEFAULT_META: PageMeta = {
-  title: 'PayFlow Swap',
+  title: 'PayFlowSwap',
   description:
-    'The next DeFi multi-dashboard on the BNB Smart Chain, Earn passive income, long term. Swap, Stake and earn.',
-  image: `${APP_URL}/images/hero.png`,
+    'The next DeFi multi-dashboard on the BNB Smart Chain. Earn passive income, long term. Swap, Stake and Earn.',
+  image: `https://payflowswap.com/images/hero.png`,
 }
 
 export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
@@ -25,8 +25,8 @@ export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
     basePath = '/nfts/collections'
   } else if (path.startsWith('/nfts/profile')) {
     basePath = '/nfts/profile'
-  } else if (path.startsWith('/pancake-squad')) {
-    basePath = '/pancake-squad'
+  } else if (path.startsWith('/payflow-squad')) {
+    basePath = '/payflow-squad'
   } else {
     basePath = path
   }
@@ -34,110 +34,110 @@ export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
   switch (basePath) {
     case '/':
       return {
-        title: `${t('Home')} | ${t('PayFlow Swap')}`,
+        title: `${t('Home')} | ${t('PayFlowSwap')}`,
       }
     case '/swap':
       return {
-        title: `${t('Exchange')} | ${t('PayFlow Swap')}`,
+        title: `${t('Exchange')} | ${t('PayFlowSwap')}`,
       }
     case '/add':
       return {
-        title: `${t('Add Liquidity')} | ${t('PayFlow Swap')}`,
+        title: `${t('Add Liquidity')} | ${t('PayFlowSwap')}`,
       }
     case '/remove':
       return {
-        title: `${t('Remove Liquidity')} | ${t('PayFlow Swap')}`,
+        title: `${t('Remove Liquidity')} | ${t('PayFlowSwap')}`,
       }
     case '/liquidity':
       return {
-        title: `${t('Liquidity')} | ${t('PayFlow Swap')}`,
+        title: `${t('Liquidity')} | ${t('PayFlowSwap')}`,
       }
     case '/find':
       return {
-        title: `${t('Import Pool')} | ${t('PayFlow Swap')}`,
+        title: `${t('Import Pool')} | ${t('PayFlowSwap')}`,
       }
     case '/competition':
       return {
-        title: `${t('Trading Battle')} | ${t('PayFlow Swap')}`,
+        title: `${t('Trading Battle')} | ${t('PayFlowSwap')}`,
       }
     case '/prediction':
       return {
-        title: `${t('Prediction')} | ${t('PayFlow Swap')}`,
+        title: `${t('Prediction')} | ${t('PayFlowSwap')}`,
       }
     case '/prediction/leaderboard':
       return {
-        title: `${t('Leaderboard')} | ${t('PayFlow Swap')}`,
+        title: `${t('Leaderboard')} | ${t('PayFlowSwap')}`,
       }
     case '/farms':
       return {
-        title: `${t('Farms')} | ${t('PayFlow Swap')}`,
+        title: `${t('Farms')} | ${t('PayFlowSwap')}`,
       }
     case '/farms/auction':
       return {
-        title: `${t('Farm Auctions')} | ${t('PayFlow Swap')}`,
+        title: `${t('Farm Auctions')} | ${t('PayFlowSwap')}`,
       }
     case '/pools':
       return {
-        title: `${t('Pools')} | ${t('PayFlow Swap')}`,
+        title: `${t('Pools')} | ${t('PayFlowSwap')}`,
       }
     case '/lottery':
       return {
-        title: `${t('Lottery')} | ${t('PayFlow Swap')}`,
+        title: `${t('Lottery')} | ${t('PayFlowSwap')}`,
       }
     case '/ifo':
       return {
-        title: `${t('Initial Farm Offering')} | ${t('PayFlow Swap')}`,
+        title: `${t('Initial Farm Offering')} | ${t('PayFlowSwap')}`,
       }
     case '/teams':
       return {
-        title: `${t('Leaderboard')} | ${t('PayFlow Swap')}`,
+        title: `${t('Leaderboard')} | ${t('PayFlowSwap')}`,
       }
     case '/voting':
       return {
-        title: `${t('Voting')} | ${t('PayFlow Swap')}`,
+        title: `${t('Voting')} | ${t('PayFlowSwap')}`,
       }
     case '/voting/proposal':
       return {
-        title: `${t('Proposals')} | ${t('PayFlow Swap')}`,
+        title: `${t('Proposals')} | ${t('PayFlowSwap')}`,
       }
     case '/voting/proposal/create':
       return {
-        title: `${t('Make a Proposal')} | ${t('PayFlow Swap')}`,
+        title: `${t('Make a Proposal')} | ${t('PayFlowSwap')}`,
       }
     case '/info':
       return {
-        title: `${t('Overview')} | ${t('Info & Analytics')}`,
+        title: `${t('Info Overview')} | ${t('Info & Analytics')}`,
         description: 'View statistics for Pancakeswap exchanges.',
       }
     case '/info/pools':
       return {
-        title: `${t('Pools')} | ${t('Info & Analytics')}`,
+        title: `${t('Info Pools')} | ${t('Info & Analytics')}`,
         description: 'View statistics for Pancakeswap exchanges.',
       }
     case '/info/tokens':
       return {
-        title: `${t('Tokens')} | ${t('Info & Analytics')}`,
+        title: `${t('Info Tokens')} | ${t('Info & Analytics')}`,
         description: 'View statistics for Pancakeswap exchanges.',
       }
     case '/nfts':
       return {
-        title: `${t('Overview')} | ${t('PayFlow Swap')}`,
+        title: `${t('NFTs Overview')} | ${t('PayFlowSwap')}`,
       }
     case '/nfts/collections':
       return {
-        title: `${t('Collections')} | ${t('PayFlow Swap')}`,
+        title: `${t('NFTs Collections')} | ${t('PayFlowSwap')}`,
       }
     case '/nfts/activity':
       return {
-        title: `${t('Activity')} | ${t('PayFlow Swap')}`,
+        title: `${t('NFTs Activity')} | ${t('PayFlowSwap')}`,
       }
     case '/nfts/profile':
       return {
-        title: `${t('Profile')} | ${t('PayFlow Swap')}`,
+        title: `${t('NFTs Profile')} | ${t('PayFlowSwap')}`,
       }
-    case '/pancake-squad':
+    case '/payflow-squad':
       return {
-        title: `${t('Pancake Squad')} | ${t('PayFlow Swap')}`,
+        title: `${t('PayFlow Squad')} | ${t('PayFlowSwap')}`,
       }
     default:
       return null
