@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "PFS Default List",
+=======
+  "name": "PayFlow Swap Default List",
+>>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
   "timestamp": "2022-01-26T11:45:09Z",
   "version": {
     "major": 4,
@@ -8,7 +12,11 @@
   },
   "tags": {},
   "logoURI": "https://payflowswap.com/logo.png",
+<<<<<<< HEAD
   "keywords": ["payflow", "swap", "default"],
+=======
+  "keywords": ["payflow", "default"],
+>>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
   "tokens": [
     {
       "name": "WBNB Token",

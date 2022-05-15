@@ -120,7 +120,7 @@ const PoolStatsInfo: React.FC<ExpandedFooterProps> = ({
                 tokenAddress,
                 earningToken.symbol,
                 earningToken.decimals,
-                `https://tokens.payflowswap.com/images/${tokenAddress}.png`,
+                `https://tokens.pancakeswap.finance/images/${tokenAddress}.png`,
               )
             }
           >

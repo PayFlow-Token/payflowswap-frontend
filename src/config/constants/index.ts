@@ -115,6 +115,6 @@ export const GELATO_HANDLER = 'pancakeswap'
 export const GENERIC_GAS_LIMIT_ORDER_EXECUTION = BigNumber.from(500000)
 
 export const EXCHANGE_DOCS_URLS = 'https://docs.payflowtoken.com'
-export const LIMIT_ORDERS_DOCS_URL = 'https://docs.payflowtoken.com' // 'https://docs.payflowswap.com/products/pancakeswap-exchange/limit-orders'
+export const LIMIT_ORDERS_DOCS_URL = 'https://docs.payflowtoken.com' // 'https://docs.pancakeswap.finance/products/pancakeswap-exchange/limit-orders'
 
 export const GALAXY_NFT_CAMPAIGN_ID = 'GCpp2UUxqQ'

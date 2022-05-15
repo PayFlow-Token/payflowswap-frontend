@@ -19,7 +19,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -37,259 +39,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance USD",
-            "projectLink": "https://www.paxos.com/busd/",
-            "symbol": "BUSD",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x55d398326f99059fF775485246999027B3197955",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Tether USD",
-            "projectLink": "https://tether.to/",
-            "symbol": "USDT",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance BTC",
-            "projectLink": "https://bitcoin.org/",
-            "symbol": "BTCB",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped UST Token",
-            "projectLink": "https://mirror.finance/",
-            "symbol": "UST",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance-Peg Ethereum Token",
-            "projectLink": "https://ethereum.org/en/",
-            "symbol": "ETH",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance-Peg USD Coin",
-            "projectLink": "https://www.centre.io/usdc",
-            "symbol": "USDC",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance USD",
-            "projectLink": "https://www.paxos.com/busd/",
-            "symbol": "BUSD",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0x55d398326f99059fF775485246999027B3197955",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Tether USD",
-            "projectLink": "https://tether.to/",
-            "symbol": "USDT",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance BTC",
-            "projectLink": "https://bitcoin.org/",
-            "symbol": "BTCB",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped UST Token",
-            "projectLink": "https://mirror.finance/",
-            "symbol": "UST",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance-Peg Ethereum Token",
-            "projectLink": "https://ethereum.org/en/",
-            "symbol": "ETH",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
-            "symbol": "CAKE",
-          },
-          Token {
-            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Binance-Peg USD Coin",
-            "projectLink": "https://www.centre.io/usdc",
-            "symbol": "USDC",
-          },
-        ],
-        Array [
-          Token {
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "Wrapped BNB",
-            "projectLink": "https://www.binance.com/",
-            "symbol": "WBNB",
-          },
-          Token {
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "chainId": 56,
-            "decimals": 18,
-            "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -407,7 +159,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -425,7 +179,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -443,7 +199,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -461,7 +219,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -479,7 +239,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -497,7 +259,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -515,7 +279,277 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance-Peg USD Coin",
+            "projectLink": "https://www.centre.io/usdc",
+            "symbol": "USDC",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance USD",
+            "projectLink": "https://www.paxos.com/busd/",
+            "symbol": "BUSD",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Tether USD",
+            "projectLink": "https://tether.to/",
+            "symbol": "USDT",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance BTC",
+            "projectLink": "https://bitcoin.org/",
+            "symbol": "BTCB",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped UST Token",
+            "projectLink": "https://mirror.finance/",
+            "symbol": "UST",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance-Peg Ethereum Token",
+            "projectLink": "https://ethereum.org/en/",
+            "symbol": "ETH",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+          Token {
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance-Peg USD Coin",
+            "projectLink": "https://www.centre.io/usdc",
+            "symbol": "USDC",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "projectLink": "https://www.binance.com/",
+            "symbol": "WBNB",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance USD",
+            "projectLink": "https://www.paxos.com/busd/",
+            "symbol": "BUSD",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Tether USD",
+            "projectLink": "https://tether.to/",
+            "symbol": "USDT",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance BTC",
+            "projectLink": "https://bitcoin.org/",
+            "symbol": "BTCB",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Wrapped UST Token",
+            "projectLink": "https://mirror.finance/",
+            "symbol": "UST",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
+            "symbol": "CAKE",
+          },
+          Token {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "Binance-Peg Ethereum Token",
+            "projectLink": "https://ethereum.org/en/",
+            "symbol": "ETH",
+          },
+        ],
+        Array [
+          Token {
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "chainId": 56,
+            "decimals": 18,
+            "name": "PayFlow Swap Token",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -559,7 +593,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -685,7 +721,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -811,7 +849,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -937,7 +977,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1063,7 +1105,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1189,7 +1233,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1308,7 +1354,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
                 "denominator": JSBI [
@@ -1323,72 +1373,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
-                  "symbol": "CAKE",
-                },
-              },
-              TokenAmount {
-                "currency": Token {
-                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "Wrapped BNB",
-                  "projectLink": "https://www.binance.com/",
-                  "symbol": "WBNB",
-                },
-                "denominator": JSBI [
-                  660865024,
-                  931322574,
-                ],
-                "numerator": JSBI [
-                  1,
-                ],
-                "token": Token {
-                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "Wrapped BNB",
-                  "projectLink": "https://www.binance.com/",
-                  "symbol": "WBNB",
-                },
-              },
-            ],
-          },
-        ],
-        Array [
-          2,
-          Pair {
-            "liquidityToken": Token {
-              "address": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
-              "chainId": 56,
-              "decimals": 18,
-              "name": "Pancake LPs",
-              "projectLink": undefined,
-              "symbol": "Cake-LP",
-            },
-            "tokenAmounts": Array [
-              TokenAmount {
-                "currency": Token {
-                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "PayFlow Swap Token",
-                  "projectLink": "https://payflowswap.com/",
-                  "symbol": "CAKE",
-                },
-                "denominator": JSBI [
-                  660865024,
-                  931322574,
-                ],
-                "numerator": JSBI [
-                  1,
-                ],
-                "token": Token {
-                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "PayFlow Swap Token",
-                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
               },
@@ -1438,7 +1427,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
                 "denominator": JSBI [
@@ -1453,7 +1446,84 @@ exports[`Trade #useAllCommonPairs should get all pair combinations wbnb, cake 1`
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
+                  "symbol": "CAKE",
+                },
+              },
+              TokenAmount {
+                "currency": Token {
+                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "Wrapped BNB",
+                  "projectLink": "https://www.binance.com/",
+                  "symbol": "WBNB",
+                },
+                "denominator": JSBI [
+                  660865024,
+                  931322574,
+                ],
+                "numerator": JSBI [
+                  1,
+                ],
+                "token": Token {
+                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "Wrapped BNB",
+                  "projectLink": "https://www.binance.com/",
+                  "symbol": "WBNB",
+                },
+              },
+            ],
+          },
+        ],
+        Array [
+          2,
+          Pair {
+            "liquidityToken": Token {
+              "address": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+              "chainId": 56,
+              "decimals": 18,
+              "name": "Pancake LPs",
+              "projectLink": undefined,
+              "symbol": "Cake-LP",
+            },
+            "tokenAmounts": Array [
+              TokenAmount {
+                "currency": Token {
+                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "PayFlow Swap Token",
+<<<<<<< HEAD
+                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
+                  "symbol": "CAKE",
+                },
+                "denominator": JSBI [
+                  660865024,
+                  931322574,
+                ],
+                "numerator": JSBI [
+                  1,
+                ],
+                "token": Token {
+                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "PayFlow Swap Token",
+<<<<<<< HEAD
+                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
               },
@@ -1514,7 +1584,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1640,7 +1712,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1766,7 +1840,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -1884,7 +1960,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1902,7 +1980,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1920,7 +2000,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1938,7 +2020,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1956,7 +2040,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1974,7 +2060,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -1992,7 +2080,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
           Token {
@@ -2036,7 +2126,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2162,7 +2254,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2288,7 +2382,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2414,7 +2510,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2540,7 +2638,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2666,7 +2766,9 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
             "chainId": 56,
             "decimals": 18,
             "name": "PayFlow Swap Token",
-            "projectLink": "https://payflowswap.com/",
+
+            "projectLink": "https://pancakeswap.finance/",
+
             "symbol": "CAKE",
           },
         ],
@@ -2785,7 +2887,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
                 "denominator": JSBI [
@@ -2800,72 +2906,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
-                  "symbol": "CAKE",
-                },
-              },
-              TokenAmount {
-                "currency": Token {
-                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "Wrapped BNB",
-                  "projectLink": "https://www.binance.com/",
-                  "symbol": "WBNB",
-                },
-                "denominator": JSBI [
-                  660865024,
-                  931322574,
-                ],
-                "numerator": JSBI [
-                  1,
-                ],
-                "token": Token {
-                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "Wrapped BNB",
-                  "projectLink": "https://www.binance.com/",
-                  "symbol": "WBNB",
-                },
-              },
-            ],
-          },
-        ],
-        Array [
-          2,
-          Pair {
-            "liquidityToken": Token {
-              "address": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
-              "chainId": 56,
-              "decimals": 18,
-              "name": "Pancake LPs",
-              "projectLink": undefined,
-              "symbol": "Cake-LP",
-            },
-            "tokenAmounts": Array [
-              TokenAmount {
-                "currency": Token {
-                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "PayFlow Swap Token",
-                  "projectLink": "https://payflowswap.com/",
-                  "symbol": "CAKE",
-                },
-                "denominator": JSBI [
-                  660865024,
-                  931322574,
-                ],
-                "numerator": JSBI [
-                  1,
-                ],
-                "token": Token {
-                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-                  "chainId": 56,
-                  "decimals": 18,
-                  "name": "PayFlow Swap Token",
-                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
               },
@@ -2915,7 +2960,11 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
                 "denominator": JSBI [
@@ -2930,7 +2979,84 @@ exports[`Trade #useAllCommonPairs should get all pair combinations, wbnb, wbnb 1
                   "chainId": 56,
                   "decimals": 18,
                   "name": "PayFlow Swap Token",
+<<<<<<< HEAD
                   "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
+                  "symbol": "CAKE",
+                },
+              },
+              TokenAmount {
+                "currency": Token {
+                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "Wrapped BNB",
+                  "projectLink": "https://www.binance.com/",
+                  "symbol": "WBNB",
+                },
+                "denominator": JSBI [
+                  660865024,
+                  931322574,
+                ],
+                "numerator": JSBI [
+                  1,
+                ],
+                "token": Token {
+                  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "Wrapped BNB",
+                  "projectLink": "https://www.binance.com/",
+                  "symbol": "WBNB",
+                },
+              },
+            ],
+          },
+        ],
+        Array [
+          2,
+          Pair {
+            "liquidityToken": Token {
+              "address": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+              "chainId": 56,
+              "decimals": 18,
+              "name": "Pancake LPs",
+              "projectLink": undefined,
+              "symbol": "Cake-LP",
+            },
+            "tokenAmounts": Array [
+              TokenAmount {
+                "currency": Token {
+                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "PayFlow Swap Token",
+<<<<<<< HEAD
+                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
+                  "symbol": "CAKE",
+                },
+                "denominator": JSBI [
+                  660865024,
+                  931322574,
+                ],
+                "numerator": JSBI [
+                  1,
+                ],
+                "token": Token {
+                  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                  "chainId": 56,
+                  "decimals": 18,
+                  "name": "PayFlow Swap Token",
+<<<<<<< HEAD
+                  "projectLink": "https://payflowswap.com/",
+=======
+                  "projectLink": "https://pancakeswap.finance/",
+
                   "symbol": "CAKE",
                 },
               },

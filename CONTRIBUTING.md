@@ -1,7 +1,11 @@
 # Contributing to the Pancake ecosystem 🥞
 
 Thanks for taking the time to contribute !
+<<<<<<< HEAD
 You can start by reading our [Contribution guidelines](https://docs.payflowswap.com/code/contributing) first.
+=======
+You can start by reading our [Contribution guidelines](https://docs.pancakeswap.finance/code/contributing) first.
+>>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
 
 ## Setup
 

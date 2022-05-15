@@ -35,7 +35,7 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
       },
       // {
       //   label: t('Perpetual'),
-      //   href: `https://perp.payflowswap.com/${perpLangMap(languageCode)}/futures/BTCUSDT`,
+      //   href: `https://perp.pancakeswap.finance/${perpLangMap(languageCode)}/futures/BTCUSDT`,
       //   type: DropdownMenuItemType.EXTERNAL_LINK,
       // },
     ],

@@ -161,7 +161,11 @@ export const userMenulinks: DropdownMenuItems[] = [
   },
   {
     type: DropdownMenuItemType.EXTERNAL_LINK,
+<<<<<<< HEAD
     href: "https://payflowswap.com",
+=======
+    href: "https://pancakeswap.finance",
+>>>>>>> 340833a6cbee5ccbe89866ceaa7f50f3742e77cc
     label: "Link",
   },
   {

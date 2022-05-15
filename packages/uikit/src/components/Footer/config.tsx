@@ -19,8 +19,8 @@ export const footerLinks: FooterLinkType[] = [
         href: "https://docs.payflowswap.com/contact-us/telegram",
       },
       {
-        label: "CAKE",
-        href: "https://docs.payflowswap.com/tokenomics/cake",
+        label: "PFT",
+        href: "https://docs.payflowswap.com/tokenomics/pft",
       },
       {
         label: "—",
@@ -159,11 +159,11 @@ export const socials = [
     icon: GithubIcon,
     href: "https://github.com/PayFlow-Token/PayFlow-Token",
   },
-  // {
-  //   label: "Discord",
-  //   icon: DiscordIcon,
-  //   href: "https://discord.gg/pancakeswap",
-  // },
+  {
+    label: "Discord",
+    icon: DiscordIcon,
+    href: "https://discord.gg/payflow",
+  },
   {
     label: "Medium",
     icon: MediumIcon,

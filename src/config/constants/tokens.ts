@@ -249,7 +249,7 @@ export const mainnetTokens = defineTokens({
     18,
     'SYRUP',
     'SyrupBar Token',
-    'https://payflowswap.com/',
+    'https://pancakeswap.finance/',
   ),
   pha: new Token(
     MAINNET,
@@ -2144,7 +2144,7 @@ export const testnetTokens = defineTokens({
     18,
     'CAKE',
     'Pancakeswap Token',
-    'https://payflowswap.com/',
+    'https://pancakeswap.finance/',
   ),
   busd: new Token(
     TESTNET,
@@ -2160,7 +2160,7 @@ export const testnetTokens = defineTokens({
     18,
     'SYRUP',
     'SyrupBar Token',
-    'https://payflowswap.com/',
+    'https://pancakeswap.finance/',
   ),
   bake: new Token(
     TESTNET,
